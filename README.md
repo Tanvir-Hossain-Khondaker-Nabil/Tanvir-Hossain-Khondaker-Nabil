@@ -1,5 +1,15 @@
-<h1 align="center">This is Tanvir Hossain Khondaker</h1>
-<h3 align="center">I'm Bootstrap web designer. At present, I'm learning laravel, and continue my work with some basic project.</h3>
+### Hi there 👋, Tanvir Hossain Khondaker
+#### Jonior Position
+![Jonior Position](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Assalamu Alaikum, This is Tanvir Hossain Khondaker. I'm Bootstrap web designer. And very good expert in Elementor. At present, I'm learning laravel, and continue my work with some basic project. Some additional skills : Figma, Tailwind, SCSS, DOM, Wordpress. https://tanvirhossainkhondaker.netlify.app/
+
+Skills: PHP / LARAVEL/ JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
 
 
