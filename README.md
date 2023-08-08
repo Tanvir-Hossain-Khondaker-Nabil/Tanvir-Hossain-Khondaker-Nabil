@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Tanvir Hossain Khondaker</h1>
-<h3 align="center">A passionate frontend deveI'm Bootstrap web designer. At present, I'm learning laravel, and continue my work with some basic project.loper from India</h3>
+<h3 align="center">I'm Bootstrap web designer. At present, I'm learning laravel, and continue my work with some basic project.loper from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
