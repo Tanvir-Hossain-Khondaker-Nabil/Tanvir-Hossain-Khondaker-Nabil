@@ -11,5 +11,5 @@
 
  https://tanvir-hossain-khondaker.netlify.app/
 
-<h4>SKILL: Laravel / React / MySql /  Bootstrap / Jquery / Axios / CSS / Html / php / Javascript / Cpanel </h4>
+<h4>SKILL: Laravel, React, MySql, Bootstrap, Jquery, Axios, CSS, Html, php, Javascript, Cpanel</h4>
 
