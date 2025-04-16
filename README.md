@@ -9,7 +9,7 @@
  Throughout my journey, I’ve worked on diverse projects, from eCommerce platforms to custom management systems, focusing on clean code, performance, and user experience. I’m passionate about continuous learning and always strive to enhance my skills to deliver high-quality solutions that meet user and business needs.
  </p>
 
- https://tanvir-hossain-khondaker.netlify.app/
+ https://tanvir-hossain-khondaker.netlify.app
 
 <h4>SKILL : Laravel, React, MySql, Bootstrap, Jquery, Axios, CSS, Html, php, Javascript, Cpanel</h4>
 
